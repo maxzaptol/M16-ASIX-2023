@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\maxzaptol\source\repos\clase\clase\main.cpp(15,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\maxzaptol\source\repos\clase\clase\main.cpp(24,11): error C2039: "turno": no es un miembro de "`global namespace'"
+C:\Users\maxzaptol\source\repos\clase\clase\main.cpp(24,11): error C2064: el término no se evalúa como una función con 1 argumentos
+C:\Users\maxzaptol\source\repos\clase\clase\main.cpp(25,11): error C2039: "turno": no es un miembro de "`global namespace'"
+C:\Users\maxzaptol\source\repos\clase\clase\main.cpp(25,11): error C2064: el término no se evalúa como una función con 1 argumentos
+C:\Users\maxzaptol\source\repos\clase\clase\main.cpp(14,12): fatal  error C1075: "{": no se encontró ningún token coincidente
+  Source.cpp
+  Generando código...
+C:\Users\maxzaptol\source\repos\clase\clase\Source.cpp(30): error C4716: 'Lancha::setName': debe devolver un valor
+C:\Users\maxzaptol\source\repos\clase\clase\Source.cpp(36): error C4716: 'Lancha::setVel': debe devolver un valor
+C:\Users\maxzaptol\source\repos\clase\clase\Source.cpp(42): error C4716: 'Lancha::setDist': debe devolver un valor
+C:\Users\maxzaptol\source\repos\clase\clase\Source.cpp(48): error C4716: 'Lancha::setNitro': debe devolver un valor
