@@ -11,7 +11,7 @@ private:
 	int FrozenAttack;
 
 public:
-
+	//Constructor con herencia
 	EnemigoFinal(int pHp,
 		std::string pName,
 		int pAttack,
@@ -19,21 +19,20 @@ public:
 		int fireAttack,
 		int frozenAttack);
 
+
+
+	
+
 	//Getters
-		int getHp();
-		std::string getName();
-		int getAttack();
-		int getDefense();
 		int getFireAttack();
 		int getFrozenAttack();
 
 		//Setters
-		void setHp(int pHp);
-		void setName(std::string pName);
-		void setAttack(int pAttack);
-		void setDefense(int pDefense);
+
 		void setFireAttack(int pFireAttack);
 		void setFrozenAttack(int pFrozenAttack);
+
+		//metodos propios
 		void printStatus();
 
 

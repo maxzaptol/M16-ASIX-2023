@@ -129,11 +129,12 @@
   <ItemGroup>
     <ClCompile Include="EnemigoFinal.cpp" />
     <ClCompile Include="Herenciaconobjetos.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Personaje.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EnemigoFinal.h" />
     <ClInclude Include="header.h" />
+    <ClInclude Include="Personaje.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
